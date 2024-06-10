@@ -14,7 +14,7 @@ const styled = {
 const sx = {
   fontSize: "60px",
   "&:hover": {
-    color: "#4b8d1d",
+    color: "#56DC6D",
   },
 };
 

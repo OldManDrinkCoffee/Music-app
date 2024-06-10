@@ -12,7 +12,7 @@ const Item = styled(Paper)(({ theme }) => ({
   padding: theme.spacing(1),
   color: theme.palette.text.secondary,
   cursor: "pointer",
-  "&:hover": { backgroundColor: "#8edc56" },
+  "&:hover": { backgroundColor: "#56DC6D" },
   display: "flex",
   justifyContent: "center",
   margin: "15px",
