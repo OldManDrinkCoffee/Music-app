@@ -9,12 +9,12 @@ const styled = {
   border: "none",
   backgroundColor: "transparent",
   cursor: "pointer",
-  color: "#e377a4",
+  color: "#a4e377",
 };
 const sx = {
   fontSize: "60px",
   "&:hover": {
-    color: "#d33c7a",
+    color: "#4b8d1d",
   },
 };
 

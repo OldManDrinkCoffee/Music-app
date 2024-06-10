@@ -17,7 +17,7 @@ function App() {
         </Box>
         <Box
           sx={{
-            bgcolor: "#fee0e0",
+            bgcolor: "#8edc56",
             display: "flex",
             justifyContent: "center",
             alignItems: "center",
